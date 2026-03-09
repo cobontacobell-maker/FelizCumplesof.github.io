@@ -9,6 +9,7 @@ Yo se que yo para ti no puedo ser alguien importante ya que no es que este en tu
 Y hago estop para poder expresar mis sentimientos de una manera distinta, yo se que hoy muchos amigos te darán una felicitación y imagino que yo seré del montón igualmente, pero me alegra poder estar en una fecha muy especial para ti que es tu cumple.
 Yo pensaba que nuestra amistad iba a durar solamente un par de días, pero ya llevamos 3 meses de hablando y en estos 3 meses eh notado que eres una chica muy especial y que a pesar de todo eres muy fuerte.
 Ánimos con lo de tu padre, la verdad me gustaría ser de ayuda, pero tristemente no lo puede llegar hacer, simplemente te puedo brindar mis ánimos desde acá.
+Te quiero mucho y te lo vuelvo a decir, Feliz Cumpleaños.
 `;
     } else {
         alert('Ingresa un nombre');
