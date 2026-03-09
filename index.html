@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carta de cumpleaños</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="paso1">
+        <h1>Ingresa tu nombre:</h1>
+        <input id="nombre" type="text">
+        <button onclick="siguientePaso()">Siguiente</button>
+    </div>
+    <div id="paso2" style="display: none;">
+        <h1>Ingresa la contraseña secreta:</h1>
+        <input id="contraseña" type="password">
+        <button onclick="verificarContraseña()">Desbloquear</button>
+    </div>
+    <div id="carta" style="display: none;">
+        <h1>¡Feliz cumpleaños! 🎉</h1>
+        <p id="mensaje"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

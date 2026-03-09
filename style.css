@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#paso1, #paso2, #carta {
+    margin: 20px;
+}
